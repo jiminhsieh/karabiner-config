@@ -76,6 +76,139 @@
                 }
             ],
             "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "r",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "volume_increment"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "w",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "volume_decrement"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "t",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "mute"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "g",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "page_up"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "b",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "page_down"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "v",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "home"
+                }
+            ],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "c",
+                "modifiers": {
+                    "mandatory": [
+                        "fn"
+                    ],
+                    "optional": [
+                        "any"
+                    ]
+                }
+            },
+            "to": [
+                {
+                    "key_code": "end"
+                }
+            ],
+            "type": "basic"
         }
     ]
 }
